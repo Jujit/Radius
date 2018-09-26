@@ -1,0 +1,13 @@
+[26/09/2018 12:38:17]  Executing the test : verifyRadiusLoginPage
+[26/09/2018 12:38:17]  Executing test case : Navigating to application and logging in
+[26/09/2018 12:38:17]  Navigating to the test site - Radius Agent ...
+[26/09/2018 12:38:22]  Error came while initiating driver : session not created exception
+from unknown error: Runtime.executionContextCreated has invalid 'context': {"auxData":{"frameId":"13194A6BA23CAA87BA098190F1F34376","isDefault":true},"id":1,"name":"","origin":"://"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.74 seconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'mindfire-PC', ip: '172.18.239.113', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+[26/09/2018 12:38:22]  Error came : null
+[26/09/2018 12:38:22]  ***********************************verifyRadiusLoginPage --- Pass

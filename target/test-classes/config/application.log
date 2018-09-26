@@ -1,0 +1,61 @@
+[26/09/2018 12:36:40]  Executing the test : verifyRadiusLoginPage
+[26/09/2018 12:36:40]  Executing test case : Navigating to application and logging in
+[26/09/2018 12:36:40]  Navigating to the test site - Radius Agent ...
+[26/09/2018 12:36:50]  Asserting  title  where : Expected title = Radius - Join the Fastest Growing Real Estate Network
+[26/09/2018 12:36:50]  Actual title = Radius - Join the Fastest Growing Real Estate Network and matches with Expected title = Radius - Join the Fastest Growing Real Estate Network
+[26/09/2018 12:36:50]  Navigated to the test site - Radius Agent
+[26/09/2018 12:36:50]  Logging in to the test site - Radius Agent
+[26/09/2018 12:36:50]  Successfully Retrieved data from Xls File :-  Username : jujitsaikia@gmail.com and Password : password1
+[26/09/2018 12:36:50]  Waiting for web element to load on the page
+[26/09/2018 12:36:50]  Waiting ends ... Web element loaded on the page
+[26/09/2018 12:36:51]  Clicking on : 'LogIn' Button
+[26/09/2018 12:36:51]  Waiting for web element to load on the page
+[26/09/2018 12:36:51]  Waiting ends ... Web element loaded on the page
+[26/09/2018 12:36:52]  Clicked on : 'LogIn' Button
+[26/09/2018 12:36:52]  Clicked on the element : ''LogIn' Button and new page loaded with title : Radius - Join the Fastest Growing Real Estate Network
+[26/09/2018 12:36:52]  Waiting for web element to load on the page
+[26/09/2018 12:36:53]  Waiting ends ... Web element loaded on the page
+[26/09/2018 12:36:53]  Waiting for web element to load on the page
+[26/09/2018 12:36:53]  Waiting ends ... Web element loaded on the page
+[26/09/2018 12:36:53]  Waiting for web element to load on the page
+[26/09/2018 12:36:54]  Waiting ends ... Web element loaded on the page
+[26/09/2018 12:36:54]  Clearing field : Email
+[26/09/2018 12:36:54]  Waiting for web element to load on the page
+[26/09/2018 12:36:54]  Waiting ends ... Web element loaded on the page
+[26/09/2018 12:36:55]  Cleared : Email
+[26/09/2018 12:36:55]  Sending Values in : Email
+[26/09/2018 12:36:55]  Inputted 'jujitsaikia@gmail.com' text into : 'Email'
+[26/09/2018 12:36:55]  Waiting for web element to load on the page
+[26/09/2018 12:36:56]  Waiting ends ... Web element loaded on the page
+[26/09/2018 12:36:56]  Clearing field : Password
+[26/09/2018 12:36:56]  Waiting for web element to load on the page
+[26/09/2018 12:36:56]  Waiting ends ... Web element loaded on the page
+[26/09/2018 12:36:57]  Cleared : Password
+[26/09/2018 12:36:57]  Sending Values in : Password
+[26/09/2018 12:36:57]  Inputted 'password1' text into : 'Password'
+[26/09/2018 12:36:59]  Clicking on : 'LogIn' Button
+[26/09/2018 12:36:59]  Waiting for web element to load on the page
+[26/09/2018 12:37:00]  Waiting ends ... Web element loaded on the page
+[26/09/2018 12:37:00]  Clicked on : 'LogIn' Button
+[26/09/2018 12:37:00]  Clicked on the element : ''LogIn' Button and new page loaded with title : Radius - Join the Fastest Growing Real Estate Network
+[26/09/2018 12:37:00]  Clicking on : 'LogIn' Button
+[26/09/2018 12:37:00]  Waiting for web element to load on the page
+[26/09/2018 12:37:01]  Waiting ends ... Web element loaded on the page
+[26/09/2018 12:37:08]  Clicked on : 'LogIn' Button
+[26/09/2018 12:37:09]  Clicked on the element : ''LogIn' Button and new page loaded with title : Radius
+[26/09/2018 12:37:11]  Waiting for web element to load on the page
+[26/09/2018 12:37:11]  Waiting ends ... Web element loaded on the page
+[26/09/2018 12:37:12]  Clicking on : 'Profile' Button
+[26/09/2018 12:37:12]  Waiting for web element to load on the page
+[26/09/2018 12:37:12]  Waiting ends ... Web element loaded on the page
+[26/09/2018 12:37:13]  Clicked on : 'Profile' Button
+[26/09/2018 12:37:13]  Clicked on the element : ''Profile' Button and new page loaded with title : Radius
+[26/09/2018 12:37:13]  Waiting for web element to load on the page
+[26/09/2018 12:37:13]  Waiting ends ... Web element loaded on the page
+[26/09/2018 12:37:14]  Clicking on : 'Logout' Button
+[26/09/2018 12:37:14]  Waiting for web element to load on the page
+[26/09/2018 12:37:14]  Waiting ends ... Web element loaded on the page
+[26/09/2018 12:37:15]  Clicked on : 'Logout' Button
+[26/09/2018 12:37:15]  Clicked on the element : ''Logout' Button and new page loaded with title : Radius
+[26/09/2018 12:37:15]  Error came : null
+[26/09/2018 12:37:15]  ***********************************verifyRadiusLoginPage --- Pass
